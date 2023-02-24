@@ -62,5 +62,4 @@ jobs:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   name: production-files
                   publish_dir: ./dist
-                  cname: cofymdd.darknessnetwork.com
                   publish_branch: website
